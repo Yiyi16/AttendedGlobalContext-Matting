@@ -1,2 +1,2 @@
 # Natural Image Matting with Attended Global Context
-## in submission to Journal of Computer Science and Technology
+##### In submission to Journal of Computer Science and Technology (under construction)
